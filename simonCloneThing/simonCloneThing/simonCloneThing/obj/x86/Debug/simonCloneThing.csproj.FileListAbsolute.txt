@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2013\Projects\simonCloneThing\simonCloneThing\simonCloneThing\bin\x86\Debug\simonCloneThing.exe
+c:\users\user\documents\visual studio 2013\Projects\simonCloneThing\simonCloneThing\simonCloneThing\bin\x86\Debug\simonCloneThing.pdb
+c:\users\user\documents\visual studio 2013\Projects\simonCloneThing\simonCloneThing\simonCloneThing\obj\x86\Debug\simonCloneThing.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\simonCloneThing\simonCloneThing\simonCloneThing\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\user\documents\visual studio 2013\Projects\simonCloneThing\simonCloneThing\simonCloneThing\obj\x86\Debug\simonCloneThing.exe
+c:\users\user\documents\visual studio 2013\Projects\simonCloneThing\simonCloneThing\simonCloneThing\obj\x86\Debug\simonCloneThing.pdb
+c:\users\user\documents\visual studio 2013\Projects\simonCloneThing\simonCloneThing\simonCloneThing\bin\x86\Debug\Content\data\defaultfont.xnb
+c:\users\user\documents\visual studio 2013\Projects\simonCloneThing\simonCloneThing\simonCloneThing\bin\x86\Debug\Content\data\boldfont.xnb
+c:\users\user\documents\visual studio 2013\Projects\simonCloneThing\simonCloneThing\simonCloneThing\bin\x86\Debug\Content\data\1.xnb
+c:\users\user\documents\visual studio 2013\Projects\simonCloneThing\simonCloneThing\simonCloneThing\bin\x86\Debug\Content\data\2.xnb
+c:\users\user\documents\visual studio 2013\Projects\simonCloneThing\simonCloneThing\simonCloneThing\bin\x86\Debug\Content\data\3.xnb
+c:\users\user\documents\visual studio 2013\Projects\simonCloneThing\simonCloneThing\simonCloneThing\bin\x86\Debug\Content\data\4.xnb
+c:\users\user\documents\visual studio 2013\Projects\simonCloneThing\simonCloneThing\simonCloneThing\bin\x86\Debug\Content\data\5.xnb

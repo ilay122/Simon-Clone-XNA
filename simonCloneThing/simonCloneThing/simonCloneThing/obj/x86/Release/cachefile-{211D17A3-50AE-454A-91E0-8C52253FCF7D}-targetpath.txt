@@ -1,0 +1,7 @@
+Content\data\defaultfont.xnb
+Content\data\boldfont.xnb
+Content\data\1.xnb
+Content\data\2.xnb
+Content\data\3.xnb
+Content\data\4.xnb
+Content\data\5.xnb
